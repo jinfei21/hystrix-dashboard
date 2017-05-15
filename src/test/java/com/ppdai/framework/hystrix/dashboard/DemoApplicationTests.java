@@ -1,4 +1,4 @@
-package hystrix.dashboard;
+package com.ppdai.framework.hystrix.dashboard;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
