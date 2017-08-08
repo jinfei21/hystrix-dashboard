@@ -73,9 +73,9 @@
 			</properties>
 		</profile>
 		<profile>
-			<id>prd</id>
+			<id>prod</id>
 			<properties>
-				<env>prd</env>
+				<env>prod</env>
 			</properties>
 		</profile>
 	</profiles>
