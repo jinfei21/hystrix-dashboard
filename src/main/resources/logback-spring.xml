@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <jmxConfigurator/>
-    <property name="LOG_DIR" value="/www/htxdbd.ppdaicorp.com/logs"/>
+    <property name="LOG_DIR" value="/www/htxdbd.yjfei.com/logs"/>
     <property name="LOG_FILE_NAME" value="htxdbd.log"/>
 
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
